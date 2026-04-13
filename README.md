@@ -107,17 +107,22 @@ Projetar para todos significa considerar deficiências físicas e cognitivas, al
 
 ### 🃏 Flashcards para o Anki 
 
-**Card 1** * **Frente:** Qual a diferença fundamental entre Pesquisa Qualitativa e Quantitativa em UX? 
+**Card 1** 
+* **Frente:** Qual a diferença fundamental entre Pesquisa Qualitativa e Quantitativa em UX? 
 * **Verso:** A Qualitativa foca no "porquê" (pensamentos, sentimentos e motivações), enquanto a Quantitativa foca no "quanto" (dados numéricos, estatísticas e padrões de cliques). 
 
-**Card 2** * **Frente:** Quais são as 6 etapas do processo de Design Thinking? 
+**Card 2** 
+* **Frente:** Quais são as 6 etapas do processo de Design Thinking? 
 * **Verso:** 1. Empatia; 2. Definição; 3. Ideação; 4. Prototipagem; 5. Teste; 6. Implementação. 
 
-**Card 3** * **Frente:** Por que testar com apenas 5 usuários em uma Design Sprint é considerado suficiente? 
+**Card 3** 
+* **Frente:** Por que testar com apenas 5 usuários em uma Design Sprint é considerado suficiente? 
 * **Verso:** Segundo o modelo de Nielsen, entrevistar 5 usuários permite identificar aproximadamente 85% dos problemas de usabilidade do produto. 
 
-**Card 4** * **Frente:** O que significa o conceito de "Goldilocks quality" em prototipagem? 
+**Card 4** 
+* **Frente:** O que significa o conceito de "Goldilocks quality" em prototipagem? 
 * **Verso:** Criar um protótipo com qualidade "na medida certa": real o suficiente para que o usuário acredite nele, mas sem gastar tempo excessivo em perfeccionismo. 
 
-**Card 5** * **Frente:** Cite três estratégias para melhorar a acessibilidade global em aplicativos. 
+**Card 5** 
+* **Frente:** Cite três estratégias para melhorar a acessibilidade global em aplicativos. 
 * **Verso:** 1. Usar inglês simples e evitar jargões; 2. Combinar texto com ícones (dicas gráficas); 3. Evitar menus com hierarquias complexas para facilitar leitores de tela.
